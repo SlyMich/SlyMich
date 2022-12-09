@@ -1,4 +1,8 @@
-
+- 👋 Hi, I’m @SlyMich
+- 👀 I’m interested in AI & cyber security
+- 🌱 I’m currently learning Computer science 
+- 💞️ I’m looking to collaborate on everything comp science  based
+- 📫 How to reach me be available soo
 
 
 
