@@ -7,7 +7,7 @@
 
 
 <p align="center">
-<img src="[header.svg](https://raw.githubusercontent.com/SlyMich/sylviamich/b1034ddc7b0a59318a40d310260460f8a8357f60/header.svg)" />
+<img src="[header.svg" />
 </p>
 
 &nbsp;
